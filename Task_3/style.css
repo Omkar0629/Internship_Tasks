@@ -1,0 +1,107 @@
+#bgi{
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+}
+
+.intro
+{
+    text-align: center;
+    padding: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 28px;
+}
+
+.nav{
+    color: black;
+    background-color: #50a0f7;
+    background-image: linear-gradient(45deg, #2eacf5 0%, #80D0C7 100%);
+    text-align: right;    
+    padding-bottom: 0%;
+}
+#btnp{
+    margin-left: 45%;
+    margin-right: 40%;
+    color: white;
+}
+.nav a{
+    padding-right: 25px;
+    padding-bottom: 0px;
+    font-size: larger;
+}
+
+#fork{
+    left: 0%;
+    height:50px;
+    width: 50px;
+    margin-right: 50px;
+}
+
+.card{
+    margin: 10px;
+}
+
+.card-deck{
+    display: inline-flex;
+    padding: 20px;
+}
+
+.card-body{
+    padding: 20px;
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+
+.card-title{
+    text-align: center;
+    font-size: 28px;
+}
+
+.card-text{
+    text-align: left;
+    font-size: 28px;
+}
+
+.text-body{
+    background-color: #ed9663;
+    background-image: linear-gradient(62deg, #ed9663 0%, #e5c3f9 50%, #e786d0 100%);
+}
+
+.text-title{
+    background-color: #ed9663;
+    background-image: linear-gradient(62deg, #ed9663 0%, #eb9dff 100%);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 40px;
+}
+
+.company-text{
+    text-align: center;
+    padding-right: 10%;
+    padding-bottom: 10px;
+    padding-left: 10%;
+    font-size: 28px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+footer{
+    text-emphasis: none;
+    font-size: x-small;
+    color:black;
+    background-color: #50a0f7;
+    background-image: linear-gradient(45deg, #2eacf5 0%, #80D0C7 100%);
+    padding-top: 15px;
+    margin-top: 0px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+footer a{
+    padding:15px;
+    margin-right: 5%;
+    margin-left: 5%;
+    font-size: 18px;
+    color: black;
+}
+
